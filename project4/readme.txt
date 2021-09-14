@@ -12,4 +12,4 @@ make clean可清除Parser Lexer .tokens .class .ll等檔案
 
 feature:
 可將常數和變數混用做+-*/運算
-可支援while 一層迴圈
+可支援while 一層迴圈，while裡可以放if else
