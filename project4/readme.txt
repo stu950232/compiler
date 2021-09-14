@@ -1,4 +1,5 @@
 compile:
+執行前必須先裝好antlr
 首先修改makefile 中antlr-3.5.2-complete.jar路徑，確保antlr-3.5.2-complete.jar 放在對的地方
 執行make 
 (編譯myCompiler.g myCompilerLexer.java myCompilerParser.java myCompiler_test.java )
